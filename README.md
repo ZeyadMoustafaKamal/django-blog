@@ -1,7 +1,7 @@
 # Hello in my blog project
 
 #### This project was made by following [this video](https://youtu.be/WuyKxdLcw3w)
-#### But I added my personal touch and I changed somr of the code to be better 
+#### But I added my personal touch and I changed some of the code to be better 
 
 ### You can flolow these steps to setup the project and run it into your local machiene
 
